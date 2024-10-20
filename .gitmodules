@@ -1,3 +1,6 @@
 [submodule "components/arduino"]
 	path = components/arduino
 	url = https://github.com/espressif/arduino-esp32.git
+[submodule "components/memory_system_data"]
+	path = components/memory_system_data
+	url = https://github.com/LayerDE/memory_system_data.git
